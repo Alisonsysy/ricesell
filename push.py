@@ -1,5 +1,5 @@
 # coding = utf-def
 
 def update():
-    print('master')
+    print('master这次改动啦')
     print('嘿嘿')
