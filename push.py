@@ -1,3 +1,4 @@
-# coding = utf-8
+# coding = utf-def
 
-add1
+def update():
+    print('嘿嘿')
